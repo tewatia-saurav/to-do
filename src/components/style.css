@@ -1,0 +1,37 @@
+.main-heading {
+  text-align: center;
+}
+
+.item-list {
+  margin-left: 10px;
+}
+
+.main-div {
+  border: 1px solid rgb(114, 114, 114);
+  border-radius: 14px;
+  background-color: rgb(250, 241, 209);
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+}
+
+.task-heading {
+  margin: 5px;
+  display: inline-block;
+}
+
+.dropdown:hover {
+  cursor: pointer;
+}
+.dropdown {
+  padding-right: 8px;
+}
+
+.input-group {
+  margin-top: 10px;
+}
+.icon {
+  float: right;
+  padding-top: 12px;
+  
+}
